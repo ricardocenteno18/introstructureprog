@@ -1,7 +1,10 @@
 					Programmig Paradigms
-Ricardo Armando Centeno Santos
-Pedro Luis Pech Marquez
-Neguib Jabib Metri Gebara 
+				
+				Ricardo Armando Centeno Santos
+				
+				Pedro Luis Pech Marquez
+
+				Neguib Jabib Metri Gebara 
 
 -Declarative: In computer science, declarative programming is a
  programming paradigm a style of building the structure and elements of computer
@@ -15,4 +18,6 @@ Neguib Jabib Metri Gebara
 -DataFlow: In computer programming, dataflow programming is a paradigm that models a 
  program as a directed graph of the data flowing between operations, thus implementing 
  dataflow principles and architecture.
+ 
+ 
 
