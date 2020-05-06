@@ -1,10 +1,10 @@
 					**Programmig Paradigms**
 				                                             *GIT REPOSITORY's*
-				**Ricardo Armando Centeno Santos** 
+				**Ricardo Armando Centeno Santos**  >https://github.com/ricardocenteno18/introstructureprog
 				
-				**Pedro Luis Pech Marquez**
+				**Pedro Luis Pech Marquez**         >https://github.com/pedropech2001/introstructureprograming
 
-				**Neguib Habib Metri Guevara** https://github.com/Neguib-Metri/introstructureprog 
+				**Neguib Habib Metri Guevara**      >https://github.com/Neguib-Metri/introstructureprog 
 
 *Declarative:
 In computer science, declarative programming is a
@@ -71,8 +71,7 @@ The important features of object–oriented programming are:
 
 *Identify basic functions of input-output (I/O) in structured programming language.
 Input means to provide the program with some data to be used in the program and Output means to display data on screen or write the data to a printer or a file.
-C programming language provides many built-in functions to read any given input and to display data on screen when there is a need to output the result.
-Such as scanf() and printf() functions
+C programming language provides many built-in functions to read any given input and to display data on screen when there is a need to output the result. "Such as scanf() and printf() functions"
 
 *Identify the operators of structured programming language (Relational/Conditional/Logical): 
 Here, we used a symbol > and it is called a relational operator and in their simplest form, they produce Boolean results which means the result will be either true or false. Similarly, a programming language provides various relational operators. The following table lists down a few of the important relational operators available in C programming language. 
@@ -92,12 +91,13 @@ Here, we used a symbol > and it is called a relational operator and in their sim
 
 *Logical Operators:
 Logical operators are very important in any programming language and they help us take decisions based on certain conditions. Suppose we want to combine the result of two conditions, then logical AND and OR logical operators help us in producing the final result.
-The following table shows all the logical operators supported by the C language. Assume variable A holds 1 and variable B holds 0, then −
+The following table shows all the logical operators supported by the C language. Assume variable A holds 1 and variable B holds 0, then -
+
 --------------------------------------------------------------------------------------------------------------------------------
     Operator	                                      Description	                                        Example
-&&	Called Logical AND operator. If both the operands are non-zero, then condition becomes true.	(A && B) is false.
-||	Called Logical OR Operator. If any of the two operands is non-zero, then condition becomes true.	(A || B) is true.
-!	Called Logical NOT Operator. Use to reverses the logical state of its operand. If a condition is true then Logical NOT operator will make false.	!(A && B) is true.
+-&&	Called Logical AND operator. If both the operands are non-zero, then condition becomes true.	(A && B) is false.
+-||	Called Logical OR Operator. If any of the two operands is non-zero, then condition becomes true.	(A || B) is true.
+-!	Called Logical NOT Operator. Use to reverses the logical state of its operand. If a condition is true then Logical NOT operator will make false.	!(A && B) is true.
 --------------------------------------------------------------------------------------------------------------------------------
 *Compiled Languages:
 Compiled languages are converted directly into machine code that the processor can execute. As a result, they tend to be faster and more efficient to execute than interpreted languages. They also give the developer more control over hardware aspects, like memory management and CPU usage.
@@ -116,15 +116,15 @@ Source code is the fundamental component of a computer program that is created b
 Often found in programming languages and macros, reserved words are terms or phrases appropriated for special use that may not be utilized in the creation of variable names. For example, "print" is a reserved word because it is a function in many languages to show text on the screen.
 Here is a table having almost all the keywords supported by C Programming language −
 --------------------------------------------
-auto	else	long	switch
-break	enum	register	typedef
-case	extern	return	union
-char	float	short	unsigned
-const	for	signed	void
-continue	Goto	Sizeof	volatile
-default	if	static	while
-do	int	struct	_Packed
-double			
+-auto	else	long	switch
+-break	enum	register	typedef
+-case	extern	return	union
+-char	float	short	unsigned
+-const	for	signed	void
+-continue	Goto	Sizeof	volatile
+-default	if	static	while
+-do	int	struct	_Packed
+-double			
 --------------------------------------------
 
 *Identifiers:
@@ -161,36 +161,37 @@ Data type determines the type of data a variable will hold. If a variable x is d
 Integers are used to store whole numbers.
 Size and range of Integer type on 16-bit machine:
 ------------------------------------------------------------------------
-Type	Size(bytes)	Range
-int or signed int	2	-32,768 to 32767
-unsigned int	2	0 to 65535
-short int or signed short int	1	-128 to 127
-unsigned short int	1	0 to 255
-long int or signed long int	4	-2,147,483,648 to 2,147,483,647
-unsigned long int	4	0 to 4,294,967,295
+-Type	Size(bytes)	Range
+-int or signed int	2	-32,768 to 32767
+-unsigned int	2	0 to 65535
+-short int or signed short int	1	-128 to 127
+-unsigned short int	1	0 to 255
+-long int or signed long int	4	-2,147,483,648 to 2,147,483,647
+-unsigned long int	4	0 to 4,294,967,295
 ________________________________________________________________________
 Floating point type
 Floating types are used to store real numbers.
 Size and range of Integer type on 16-bit machine
 ------------------------------------------------------------------------
-Type	Size(bytes)	Range
-Float	4	3.4E-38 to 3.4E+38
-double	8	1.7E-308 to 1.7E+308
-long double	10	3.4E-4932 to 1.1E+4932
+-Type	Size(bytes)	Range
+-Float	4	3.4E-38 to 3.4E+38
+-double	8	1.7E-308 to 1.7E+308
+-long double	10	3.4E-4932 to 1.1E+4932
 ________________________________________________________________________
 Character type
 Character types are used to store characters value.
 Size and range of Integer type on 16-bit machine
 ------------------------------------------------------------------------
-Type	Size(bytes)	Range
-char or signed char	1	-128 to 127
-unsigned char	1	0 to 255
+-Type	Size(bytes)	Range
+-char or signed char	1	-128 to 127
+-unsigned char	1	0 to 255
 _________________________________________________________________________
 *Void type
 void type means no value. This is usually used to specify the type of functions which returns nothing. We will get acquainted to this datatype as we start learning more advanced topics in a language, like functions, pointers etc.
 
 ________________________________________________________________________________________________________________________________
 ***REREFENCES***
+
 https://www.geeksforgeeks.org/functional-programming-paradigm/
 https://sg.com.mx/revista/24/programacion-declarativa
 https://www.computerhope.com/jargon/l/logic-programming.htm
@@ -211,7 +212,6 @@ https://www.studytonight.com/c/keywords-and-identifier.php
 https://press.rebus.community/programmingfundamentals/chapter/constants-and-variables/
 https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm
 https://www.studytonight.com/c/datatype-in-c.php
-https://concepto.de/lenguaje-de-programacion/#ixzz6LcsrCoQD 
+https://concepto.de/lenguaje-de-programacion/#ixzz6LcsrCoQD
 
- 
- 
+
